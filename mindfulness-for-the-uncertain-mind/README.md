@@ -27,6 +27,9 @@ While you don’t need an app, and the commercialization of something that is at
 
 Both of the above apps are subscription-based, so it’s worth trying them out and seeing what you prefer. If you want something free, [Insight Timer](https://insighttimer.com) is a choice I’ve used in the past just for a meditation timer but also has many free guided meditations. Other apps I haven’t tried: [Calm](https://www.calm.com), [Oak](https://www.oakmeditation.com).
 
+## Other talks
+My co-presenter on the RailsConf 2019 self-care track Amy Newell presented a talk on suffering that touched upon aspects of mindfulness and meditation; I'll add a link here once videos are posted.
+
 ## Other Resources
 I really enjoy the writings of David Cain at [Raptitude](https://www.raptitude.com), discussing the effects of mindfulness on your day to day life. Some example posts:
 
